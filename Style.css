@@ -1,0 +1,77 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+.logo {
+    font-family: 'Impact', sans-serif;
+    font-size: 250%;
+    color: #fff;
+    letter-spacing: 5px;
+    margin:0;
+    text-shadow: 3px 3px #F9C1C0;
+    line-height: 43px;   
+}
+
+.header {
+    background-image: url("abstract-art-background-1037995.jpg");
+    text-align: left;
+        /* Full height */
+    height: 70%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px;
+    text-shadow: 1px 1px #F9C1C0;
+    line-height: 32px;
+
+}
+
+.intro {
+    padding: 60px 230px;
+    text-align: justify;
+    font-family: 'Raleway', sans-serif;
+    color: #000;
+    font-size: 1.5em;
+    
+}
+
+
+.btn {
+    text-decoration: none;
+    color: #ffffff;
+    border: 5px solid #ffffff;
+    padding: 20px 20px;
+    border-radius: 10px;
+    font-size: 140%;
+    font-family: 'Avenir Next';
+    font-weight: 500;
+    text-align: center;
+}
+
+.nav-btn{
+    padding-top: 2%;
+    padding-left: 40%;
+    list-style-type: none;
+    
+}
+
+.btn:hover {
+    background-color: #99efe6;
+}
+
+.main {
+    padding: 20% 15%;
+    line-height: 1.75;
+    text-align: center;
+    background-color: #fff;
+    font-family: 'Raleway';
+    font-size: 220%;
+
+}
+
+
